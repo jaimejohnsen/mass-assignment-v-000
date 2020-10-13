@@ -9,7 +9,7 @@ describe Person do
     {
       :name => "Avi",
       :birthday => "01/29/1984",
-      :hair_color => "brown",
+      :hair_color => "brown",p+
       :eye_color => "brown",
       :height => "short",
       :weight => "good",
